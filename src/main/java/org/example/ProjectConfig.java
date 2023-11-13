@@ -1,2 +1,7 @@
-package org.example;public class ProjectConfig {
+package org.example;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ProjectConfig {
 }
